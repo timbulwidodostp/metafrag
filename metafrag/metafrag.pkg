@@ -1,0 +1,6 @@
+D 'metafrag': Fragility index for meta-analysis Use metafrag With STATA 18
+D
+F fragility.ado
+F fragility.sthlp
+F metafrag.ado
+F metafrag.sthlp
