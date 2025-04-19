@@ -1,5 +1,7 @@
 # metafrag
-Fragility index for meta-analysis Use metafrag With STATA 18
+Fragility index for meta-analysis Use metafrag With STATA 19
+
+https://www.youtube.com/watch?v=X9vJHePDskY
 
 Olah Data Semarang
 
